@@ -11,13 +11,18 @@
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/T1/J6HWLKBRIBXB4Z3GRRP9TZ.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/XK/Q7N7XGZFT48L6BZEP80Z8C.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Reload_Shotgun_Hip.uasset",
-				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/BT_EnemyBase.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/AIC_EnemyBase.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/Task/BTT_DefaultAttack.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/BB_EnemyBase.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Reload_Shotgun_Hip_Montage.uasset",
+				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/Task/BTT_FoucusTarget.uasset",
+				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/Task/BTT_ClearFocus.uasset",
+				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/BP_PatrolRoute.uasset",
+				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/Task/BTT_MoveAlongPatrolRoute.uasset",
+				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/P4/SXC0FJ1KEEJU05K24ZVMOZ.uasset",
+				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset",
 				"C:/Users/salvarys/Documents/Unreal Projects/SS_UE_AI/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
