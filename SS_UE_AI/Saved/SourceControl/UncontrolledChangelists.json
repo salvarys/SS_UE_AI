@@ -22,6 +22,11 @@
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/BP_PatrolRoute.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/Task/BTT_MoveAlongPatrolRoute.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/P4/SXC0FJ1KEEJU05K24ZVMOZ.uasset",
+				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/BPI_EnemyBaseAPI.uasset",
+				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/Enums/E_MovementSpeed.uasset",
+				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/Task/BTT_SetMovementSpeed.uasset",
+				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/Decorators/BTD_HasPatrolRoute.uasset",
+				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/Enums/E_AIState.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset",
 				"C:/Users/salvarys/Documents/Unreal Projects/SS_UE_AI/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
