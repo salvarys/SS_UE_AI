@@ -2626,3 +2626,293 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.23-18.52.30:005][212]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.23-18.52.30:005][212]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.23-18.52.30:005][212]AssetCheck: /Game/Custom_BluePrints/BP_Player Validating asset
+[2026.03.23-18.53.54:162][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.03.23-18.53.59:759][855]LogSlate: Window 'Save Content' being destroyed
+[2026.03.23-18.53.59:804][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-18.53.59:867][855]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom_BluePrints/Animation/Idle/Pistol/MM_Pistol_Idle_ADS] ([1] browsable assets)...
+[2026.03.23-18.53.59:867][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Idle/Pistol/MM_Pistol_Idle_ADS]
+[2026.03.23-18.53.59:915][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Idle/Pistol/MM_Pistol_Idle_ADS
+[2026.03.23-18.53.59:915][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Pistol_Idle_ADS3A9DB52147D1A1FD22677391F42E8966.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Idle/Pistol/MM_Pistol_Idle_ADS.uasset'
+[2026.03.23-18.53.59:919][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Bwd] ([1] browsable assets)...
+[2026.03.23-18.54.00:001][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Bwd.MM_Pistol_Jog_Bwd]
+[2026.03.23-18.54.00:001][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Bwd]
+[2026.03.23-18.54.00:046][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Bwd
+[2026.03.23-18.54.00:046][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Pistol_Jog_BwdAA6058C74CA5A392CC310DBC96AE0E53.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Bwd.uasset'
+[2026.03.23-18.54.00:049][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Fwd] ([1] browsable assets)...
+[2026.03.23-18.54.00:068][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Fwd.MM_Pistol_Jog_Fwd]
+[2026.03.23-18.54.00:068][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Fwd]
+[2026.03.23-18.54.00:112][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Fwd
+[2026.03.23-18.54.00:112][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Pistol_Jog_Fwd4CAE8E5349F6AD83A04BB4BC68C84F40.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Fwd.uasset'
+[2026.03.23-18.54.00:116][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Left] ([1] browsable assets)...
+[2026.03.23-18.54.00:134][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Left.MM_Pistol_Jog_Left]
+[2026.03.23-18.54.00:134][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Left]
+[2026.03.23-18.54.00:178][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Left
+[2026.03.23-18.54.00:178][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Pistol_Jog_LeftEA12B5C848D37ACDF2661E9194E10FE2.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Left.uasset'
+[2026.03.23-18.54.00:182][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Right] ([1] browsable assets)...
+[2026.03.23-18.54.00:202][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Right.MM_Pistol_Jog_Right]
+[2026.03.23-18.54.00:202][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Right]
+[2026.03.23-18.54.00:246][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Right
+[2026.03.23-18.54.00:246][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Pistol_Jog_Right238A3C1B44148CC0C0E7F89D8E3BB3E0.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Right.uasset'
+[2026.03.23-18.54.00:249][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Bwd] ([1] browsable assets)...
+[2026.03.23-18.54.00:269][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Bwd.MM_Pistol_Walk_Bwd]
+[2026.03.23-18.54.00:269][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Bwd]
+[2026.03.23-18.54.00:313][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Bwd
+[2026.03.23-18.54.00:313][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Pistol_Walk_BwdFEE96EAA445778B7FACD38BC1E9B5F6E.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Bwd.uasset'
+[2026.03.23-18.54.00:316][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Fwd] ([1] browsable assets)...
+[2026.03.23-18.54.00:335][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Fwd.MM_Pistol_Walk_Fwd]
+[2026.03.23-18.54.00:335][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Fwd]
+[2026.03.23-18.54.00:379][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Fwd
+[2026.03.23-18.54.00:379][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Pistol_Walk_FwdCA3BA226411885E7C12696989B7452CC.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Fwd.uasset'
+[2026.03.23-18.54.00:382][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Left] ([1] browsable assets)...
+[2026.03.23-18.54.00:402][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Left.MM_Pistol_Walk_Left]
+[2026.03.23-18.54.00:403][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Left]
+[2026.03.23-18.54.00:447][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Left
+[2026.03.23-18.54.00:447][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Pistol_Walk_Left6B14565D40CD57D5B2AAE8826AE6BC3B.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Left.uasset'
+[2026.03.23-18.54.00:450][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Right] ([1] browsable assets)...
+[2026.03.23-18.54.00:469][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Right.MM_Pistol_Walk_Right]
+[2026.03.23-18.54.00:469][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Right]
+[2026.03.23-18.54.00:515][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Right
+[2026.03.23-18.54.00:515][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Pistol_Walk_Right649AC2D34AAD0BEDC3FE1096791A09CF.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Right.uasset'
+[2026.03.23-18.54.00:519][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Idle/Rifle/MM_Rifle_Idle_ADS] ([1] browsable assets)...
+[2026.03.23-18.54.00:539][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Idle/Rifle/MM_Rifle_Idle_ADS.MM_Rifle_Idle_ADS]
+[2026.03.23-18.54.00:539][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Idle/Rifle/MM_Rifle_Idle_ADS]
+[2026.03.23-18.54.00:583][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Idle/Rifle/MM_Rifle_Idle_ADS
+[2026.03.23-18.54.00:583][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Rifle_Idle_ADSCC5361B249FBB7BF9F975AA923CC6370.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Idle/Rifle/MM_Rifle_Idle_ADS.uasset'
+[2026.03.23-18.54.00:587][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Bwd] ([1] browsable assets)...
+[2026.03.23-18.54.00:607][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Bwd.MM_Rifle_Jog_Bwd]
+[2026.03.23-18.54.00:607][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Bwd]
+[2026.03.23-18.54.00:650][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Bwd
+[2026.03.23-18.54.00:650][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Rifle_Jog_BwdB5DE47B14892DD3083438EBA69EA393E.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Bwd.uasset'
+[2026.03.23-18.54.00:655][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Fwd] ([1] browsable assets)...
+[2026.03.23-18.54.00:673][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Fwd.MM_Rifle_Jog_Fwd]
+[2026.03.23-18.54.00:673][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Fwd]
+[2026.03.23-18.54.00:721][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Fwd
+[2026.03.23-18.54.00:721][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Rifle_Jog_FwdE7E80A944BEC146643865C82320D7A5D.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Fwd.uasset'
+[2026.03.23-18.54.00:724][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Left] ([1] browsable assets)...
+[2026.03.23-18.54.00:749][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Left.MM_Rifle_Jog_Left]
+[2026.03.23-18.54.00:749][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Left]
+[2026.03.23-18.54.00:793][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Left
+[2026.03.23-18.54.00:793][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Rifle_Jog_LeftDE9186274E4871F30B20B69EFF0969A4.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Left.uasset'
+[2026.03.23-18.54.00:796][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Right] ([1] browsable assets)...
+[2026.03.23-18.54.00:821][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Right.MM_Rifle_Jog_Right]
+[2026.03.23-18.54.00:821][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Right]
+[2026.03.23-18.54.00:864][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Right
+[2026.03.23-18.54.00:864][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Rifle_Jog_Right1633A983486D83AE3B8C31B9F8C41129.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Right.uasset'
+[2026.03.23-18.54.00:868][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Bwd] ([1] browsable assets)...
+[2026.03.23-18.54.00:893][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Bwd.MM_Rifle_Walk_Bwd]
+[2026.03.23-18.54.00:893][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Bwd]
+[2026.03.23-18.54.00:938][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Bwd
+[2026.03.23-18.54.00:938][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Rifle_Walk_Bwd4B55539240AF286A062C93A57DA61F77.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Bwd.uasset'
+[2026.03.23-18.54.00:942][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Fwd] ([1] browsable assets)...
+[2026.03.23-18.54.00:966][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Fwd.MM_Rifle_Walk_Fwd]
+[2026.03.23-18.54.00:966][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Fwd]
+[2026.03.23-18.54.01:012][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Fwd
+[2026.03.23-18.54.01:012][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Rifle_Walk_Fwd46E11D724B9D61FE511E5AB0CDA3955F.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Fwd.uasset'
+[2026.03.23-18.54.01:016][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Left] ([1] browsable assets)...
+[2026.03.23-18.54.01:041][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Left.MM_Rifle_Walk_Left]
+[2026.03.23-18.54.01:041][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Left]
+[2026.03.23-18.54.01:084][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Left
+[2026.03.23-18.54.01:084][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Rifle_Walk_Left647263434251DD8764DE4A914A0CCAD0.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Left.uasset'
+[2026.03.23-18.54.01:088][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Right] ([1] browsable assets)...
+[2026.03.23-18.54.01:114][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Right.MM_Rifle_Walk_Right]
+[2026.03.23-18.54.01:114][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Right]
+[2026.03.23-18.54.01:158][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Right
+[2026.03.23-18.54.01:158][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Rifle_Walk_RightB823264D421E6262443C7E949F7CE412.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Right.uasset'
+[2026.03.23-18.54.01:162][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Idle/Unarmed/MM_Unarmed_Idle_Ready] ([1] browsable assets)...
+[2026.03.23-18.54.01:185][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Idle/Unarmed/MM_Unarmed_Idle_Ready.MM_Unarmed_Idle_Ready]
+[2026.03.23-18.54.01:185][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Idle/Unarmed/MM_Unarmed_Idle_Ready]
+[2026.03.23-18.54.01:234][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Idle/Unarmed/MM_Unarmed_Idle_Ready
+[2026.03.23-18.54.01:234][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Unarmed_Idle_ReadyE1AB77EC4175594ABBDC47AF03DF3ACC.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Idle/Unarmed/MM_Unarmed_Idle_Ready.uasset'
+[2026.03.23-18.54.01:238][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Bwd] ([1] browsable assets)...
+[2026.03.23-18.54.01:265][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Bwd.MM_Unarmed_Jog_Bwd]
+[2026.03.23-18.54.01:265][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Bwd]
+[2026.03.23-18.54.01:309][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Bwd
+[2026.03.23-18.54.01:309][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Unarmed_Jog_Bwd52D2D38542CB3B901336D295292EAEEE.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Bwd.uasset'
+[2026.03.23-18.54.01:313][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Fwd] ([1] browsable assets)...
+[2026.03.23-18.54.01:339][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Fwd.MM_Unarmed_Jog_Fwd]
+[2026.03.23-18.54.01:339][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Fwd]
+[2026.03.23-18.54.01:384][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Fwd
+[2026.03.23-18.54.01:384][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Unarmed_Jog_FwdC2FB5C554CE7ED2F7BC5D4A8FC38F8C6.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Fwd.uasset'
+[2026.03.23-18.54.01:388][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Left] ([1] browsable assets)...
+[2026.03.23-18.54.01:413][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Left.MM_Unarmed_Jog_Left]
+[2026.03.23-18.54.01:413][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Left]
+[2026.03.23-18.54.01:457][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Left
+[2026.03.23-18.54.01:457][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Unarmed_Jog_Left8D8BCAB74E4921CE414033B2BEA0945C.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Left.uasset'
+[2026.03.23-18.54.01:460][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Right] ([1] browsable assets)...
+[2026.03.23-18.54.01:487][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Right.MM_Unarmed_Jog_Right]
+[2026.03.23-18.54.01:487][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Right]
+[2026.03.23-18.54.01:532][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Right
+[2026.03.23-18.54.01:532][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Unarmed_Jog_Right05BBC1C44103812BF80F65BE98A1C981.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Right.uasset'
+[2026.03.23-18.54.01:535][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Bwd] ([1] browsable assets)...
+[2026.03.23-18.54.01:561][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Bwd.MM_Unarmed_Walk_Bwd]
+[2026.03.23-18.54.01:561][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Bwd]
+[2026.03.23-18.54.01:606][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Bwd
+[2026.03.23-18.54.01:606][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Unarmed_Walk_Bwd4C2D43244C4EAADBF0BB5BBFC2622F9C.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Bwd.uasset'
+[2026.03.23-18.54.01:609][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Fwd] ([1] browsable assets)...
+[2026.03.23-18.54.01:635][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Fwd.MM_Unarmed_Walk_Fwd]
+[2026.03.23-18.54.01:635][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Fwd]
+[2026.03.23-18.54.01:679][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Fwd
+[2026.03.23-18.54.01:679][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Unarmed_Walk_Fwd81D46DBF4AAB16089E29E7B6C3D8E1A3.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Fwd.uasset'
+[2026.03.23-18.54.01:683][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Left] ([1] browsable assets)...
+[2026.03.23-18.54.01:709][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Left.MM_Unarmed_Walk_Left]
+[2026.03.23-18.54.01:709][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Left]
+[2026.03.23-18.54.01:753][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Left
+[2026.03.23-18.54.01:753][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Unarmed_Walk_LeftFD277D3C453FBF1719770C852F4D8780.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Left.uasset'
+[2026.03.23-18.54.01:756][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Right] ([1] browsable assets)...
+[2026.03.23-18.54.01:782][855]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Right.MM_Unarmed_Walk_Right]
+[2026.03.23-18.54.01:782][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Right]
+[2026.03.23-18.54.01:828][855]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Right
+[2026.03.23-18.54.01:828][855]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/MM_Unarmed_Walk_Right138EF79949F88BA00464BFB900E85CF1.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Right.uasset'
+[2026.03.23-18.54.01:843][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.03 sec (total: 3.30 sec)
+[2026.03.23-18.54.01:963][855]LogStall: Shutdown...
+[2026.03.23-18.54.01:963][855]LogStall: Shutdown complete.
+[2026.03.23-18.54.02:074][855]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:074][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:168][855]LogSlate: Window 'SS_UE_AI - Unreal Editor' being destroyed
+[2026.03.23-18.54.02:286][855]LogContentValidation: Display: Starting to validate 27 assets
+[2026.03.23-18.54.02:286][855]LogContentValidation: Enabled validators:
+[2026.03.23-18.54.02:286][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-18.54.02:286][855]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-18.54.02:286][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-18.54.02:286][855]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-18.54.02:286][855]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-18.54.02:286][855]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Idle/Pistol/MM_Pistol_Idle_ADS Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Bwd Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Fwd Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Left Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Jog/MM_Pistol_Jog_Right Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Bwd Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Fwd Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Left Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Pistol/Walk/MM_Pistol_Walk_Right Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Idle/Rifle/MM_Rifle_Idle_ADS Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Bwd Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Fwd Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Left Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Jog/MM_Rifle_Jog_Right Validating asset
+[2026.03.23-18.54.02:286][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Bwd Validating asset
+[2026.03.23-18.54.02:287][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Fwd Validating asset
+[2026.03.23-18.54.02:287][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Left Validating asset
+[2026.03.23-18.54.02:287][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/Rifle/Walk/MM_Rifle_Walk_Right Validating asset
+[2026.03.23-18.54.02:287][855]AssetCheck: /Game/Custom_BluePrints/Animation/Idle/Unarmed/MM_Unarmed_Idle_Ready Validating asset
+[2026.03.23-18.54.02:287][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Bwd Validating asset
+[2026.03.23-18.54.02:287][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Fwd Validating asset
+[2026.03.23-18.54.02:287][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Left Validating asset
+[2026.03.23-18.54.02:287][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Jog/MM_Unarmed_Jog_Right Validating asset
+[2026.03.23-18.54.02:287][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Bwd Validating asset
+[2026.03.23-18.54.02:287][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Fwd Validating asset
+[2026.03.23-18.54.02:287][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Left Validating asset
+[2026.03.23-18.54.02:288][855]AssetCheck: /Game/Custom_BluePrints/Animation/Cycle/UnArmed/Walk/MM_Unarmed_Walk_Right Validating asset
+[2026.03.23-18.54.02:310][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.03.23-18.54.02:322][855]Cmd: QUIT_EDITOR
+[2026.03.23-18.54.02:322][855]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.23-18.54.02:329][856]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.23-18.54.02:330][856]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.23-18.54.02:330][856]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.23-18.54.02:331][856]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:331][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:332][856]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2026.03.23-18.54.02:355][856]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.23-18.54.02:358][856]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.23-18.54.02:364][856]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:364][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:366][856]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:366][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:368][856]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:368][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:369][856]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:369][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:371][856]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:371][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:372][856]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:372][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:374][856]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:374][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:376][856]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:376][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:378][856]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:378][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:379][856]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:379][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:380][856]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:380][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:383][856]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:383][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:384][856]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:384][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:386][856]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:386][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:388][856]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:388][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:390][856]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:390][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:392][856]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:392][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:394][856]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:394][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:396][856]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:396][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:398][856]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-18.54.02:398][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-18.54.02:402][856]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.23-18.54.02:405][856]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.03.23-18.54.02:406][856]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.03.23-18.54.02:406][856]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.03.23-18.54.02:408][856]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.23-18.54.02:408][856]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.23-18.54.02:408][856]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2026.03.23-18.54.02:408][856]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.23-18.54.02:410][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.23-18.54.02:412][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.23-18.54.02:440][856]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.23-18.54.02:440][856]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.23-18.54.02:447][856]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.03.23-18.54.02:451][856]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.23-18.54.02:451][856]LogExit: Preparing to exit.
+[2026.03.23-18.54.02:486][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.02:489][856]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.23-18.54.03:192][856]LogEditorDataStorage: Deinitializing
+[2026.03.23-18.54.03:382][856]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.23-18.54.03:401][856]LogExit: Editor shut down
+[2026.03.23-18.54.03:402][856]LogExit: Transaction tracking system shut down
+[2026.03.23-18.54.03:589][856]LogExit: Object subsystem successfully closed.
+[2026.03.23-18.54.03:673][856]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.23-18.54.03:841][856]LogMemoryProfiler: Shutdown
+[2026.03.23-18.54.03:841][856]LogNetworkingProfiler: Shutdown
+[2026.03.23-18.54.03:841][856]LoadingProfiler: Shutdown
+[2026.03.23-18.54.03:842][856]LogTimingProfiler: Shutdown
+[2026.03.23-18.54.04:261][856]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.23-18.54.04:280][856]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.03.23-18.54.04:280][856]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.23-18.54.04:281][856]RenderDocPlugin: plugin has been unloaded.
+[2026.03.23-18.54.04:309][856]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.23-18.54.04:309][856]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BED00B131-40ED-7E1E-31D9-E1A06547937D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=c24b20ef4790cf86a9c4af8b5998918a%7C%7C70855dbd-085c-44e1-afe8-aec23f98e564&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.23-18.54.04:851][856]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.23-18.54.04:856][856]LogXGEController: Cleaning working directory: C:/Users/salvarys/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.03.23-18.54.04:861][856]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.23-18.54.04:861][856]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.23-18.54.04:861][856]LogPakFile: Destroying PakPlatformFile
+[2026.03.23-18.54.05:143][856]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.23-18.54.05:209][856]LogExit: Exiting.
+[2026.03.23-18.54.05:246][856]Log file closed, 03/23/26 11:54:05
