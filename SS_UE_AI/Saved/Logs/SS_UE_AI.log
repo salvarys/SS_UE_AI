@@ -1574,3 +1574,318 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.03-18.10.55:965][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.04.03-18.10.55:970][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
 [2026.04.03-18.10.56:039][739]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.04.03-18.12.42:312][631]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 679.804688
+[2026.04.03-18.12.43:314][634]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.03-18.12.43:314][634]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 680.472900, Update Interval: 321.348907
+[2026.04.03-18.15.42:083][785]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Custom_BluePrints/Ai/BT_EnemyBase.BT_EnemyBase
+[2026.04.03-18.18.08:824][751]LogSlate: Window 'Save Asset As' being destroyed
+[2026.04.03-18.18.08:927][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.03-18.18.08:929][752]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2026.04.03-18.18.08:930][752]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom_BluePrints/Ai/BT_EnemyBase] ([1] browsable assets)...
+[2026.04.03-18.18.08:930][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Ai/BT_EnemyBase]
+[2026.04.03-18.18.08:938][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Custom_BluePrints/Ai/BT_EnemyBase_Auto1
+[2026.04.03-18.18.08:940][752]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/BT_EnemyBase_Auto1D4A098904C544E5445C235AFAB0559B3.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/Autosaves/Game/Custom_BluePrints/Ai/BT_EnemyBase_Auto1.uasset'
+[2026.04.03-18.18.08:944][752]LogFileHelpers: Auto-saving content packages took 0.015
+[2026.04.03-18.18.08:979][754]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2026.04.03-18.18.43:799][330]LogSlate: Window 'Save Asset As' being destroyed
+[2026.04.03-18.18.43:816][330]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped.BTD_IsWeaponEquipped
+[2026.04.03-18.18.43:816][330]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.04.03-18.18.43:980][330]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped.
+[2026.04.03-18.18.44:105][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1041.598755
+[2026.04.03-18.18.44:303][352]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.03-18.18.44:303][352]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1041.789429, Update Interval: 329.301422
+[2026.04.03-18.18.46:963][651]LogSlate: Window 'BTD_IsWeaponEquipped' being destroyed
+[2026.04.03-18.20.36:454][190]LogSlate: Window 'Save Asset As' being destroyed
+[2026.04.03-18.20.36:464][190]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom_BluePrints/Ai/Task/BTT_EquipWeapon.BTT_EquipWeapon
+[2026.04.03-18.20.36:465][190]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.03-18.20.36:553][190]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Custom_BluePrints/Ai/Task/BTT_EquipWeapon.
+[2026.04.03-18.22.35:349][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.03-18.22.35:357][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.03-18.22.35:421][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom_BluePrints/Ai/Task/BTT_EquipWeapon] ([2] browsable assets)...
+[2026.04.03-18.22.35:421][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Ai/Task/BTT_EquipWeapon]
+[2026.04.03-18.22.35:425][773]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Ai/Task/BTT_EquipWeapon
+[2026.04.03-18.22.35:425][773]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/BTT_EquipWeaponC00BE57D40A8B1557D081F9ED8CE8BE1.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/Task/BTT_EquipWeapon.uasset'
+[2026.04.03-18.22.35:428][773]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Custom_BluePrints/Ai/Task/BTT_EquipWeapon.
+[2026.04.03-18.22.35:435][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.532 ms (total: 265.228 ms)
+[2026.04.03-18.22.35:483][773]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.03-18.22.35:483][773]LogContentValidation: Enabled validators:
+[2026.04.03-18.22.35:483][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.03-18.22.35:483][773]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.03-18.22.35:483][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.03-18.22.35:483][773]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.03-18.22.35:483][773]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.03-18.22.35:483][773]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.03-18.22.35:483][773]AssetCheck: /Game/Custom_BluePrints/Ai/Task/BTT_EquipWeapon Validating asset
+[2026.04.03-18.24.24:525][695]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1382.027344
+[2026.04.03-18.24.25:525][698]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.03-18.24.25:525][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1382.693970, Update Interval: 353.874939
+[2026.04.03-18.24.36:183][650]LogEditorTransaction: Undo Add In Parameter
+[2026.04.03-18.24.43:821][ 43]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.03-18.24.43:821][ 43]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/ThirdPerson/Blueprints/BP_EnemyCharacter.BP_EnemyCharacter_C'"'
+[2026.04.03-18.24.43:821][ 43]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/ThirdPerson/Blueprints/BP_EnemyCharacter.BP_EnemyCharacter_C'",MemberName="isEquiped",MemberGuid=D6D2CD6C47676FD749F25BAC8AF73F2C)'
+[2026.04.03-18.24.44:068][ 47]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 66047
+[2026.04.03-18.24.44:068][ 47]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.04.03-18.24.44:071][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.03-18.25.19:276][ 98]LogEditorTransaction: Undo Create Pin Link
+[2026.04.03-18.25.19:719][107]LogEditorTransaction: Undo Move Node
+[2026.04.03-18.25.20:119][145]LogEditorTransaction: Undo Delete current selection
+[2026.04.03-18.25.20:391][177]LogEditorTransaction: Undo Delete current selection
+[2026.04.03-18.25.20:664][209]LogEditorTransaction: Undo Move Node
+[2026.04.03-18.25.20:988][247]LogEditorTransaction: Undo Paste clipboard contents
+[2026.04.03-18.26.12:050][722]LogSlate: Window 'Save Asset As' being destroyed
+[2026.04.03-18.26.39:708][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.03-18.26.39:764][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom_BluePrints/Ai/BT_EnemyBase] ([1] browsable assets)...
+[2026.04.03-18.26.39:764][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Ai/BT_EnemyBase]
+[2026.04.03-18.26.39:772][978]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Ai/BT_EnemyBase
+[2026.04.03-18.26.39:775][978]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/BT_EnemyBase3A5781E14DE04761DEEECBBE3C5C4DC7.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/BT_EnemyBase.uasset'
+[2026.04.03-18.26.39:778][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom_BluePrints/Ai/BB_EnemyBase] ([1] browsable assets)...
+[2026.04.03-18.26.39:778][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Ai/BB_EnemyBase]
+[2026.04.03-18.26.39:780][978]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Ai/BB_EnemyBase
+[2026.04.03-18.26.39:781][978]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/BB_EnemyBase464B0C6D4CCF506EF9CFD891B9B3B3B4.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/BB_EnemyBase.uasset'
+[2026.04.03-18.26.39:788][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.094 ms (total: 346.323 ms)
+[2026.04.03-18.26.39:847][978]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.03-18.26.39:847][978]LogContentValidation: Enabled validators:
+[2026.04.03-18.26.39:847][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.03-18.26.39:847][978]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.03-18.26.39:847][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.03-18.26.39:847][978]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.03-18.26.39:847][978]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.03-18.26.39:847][978]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.03-18.26.39:847][978]AssetCheck: /Game/Custom_BluePrints/Ai/BT_EnemyBase Validating asset
+[2026.04.03-18.26.39:847][978]AssetCheck: /Game/Custom_BluePrints/Ai/BB_EnemyBase Validating asset
+[2026.04.03-18.27.59:124][489]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom_BluePrints/Ai/Task/BTT_MoveAlongPatrolRoute.BTT_MoveAlongPatrolRoute
+[2026.04.03-18.27.59:124][489]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.03-18.29.36:131][233]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.04.03-18.29.48:440][ 84]LogStreaming: Display: FlushAsyncLoading(595): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.03-18.29.48:478][ 84]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.03-18.29.48:697][ 97]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.04.03-18.29.48:760][100]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.04.03-18.29.48:773][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.04.03-18.29.48:791][102]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.04.03-18.29.50:615][308]LogSlate: Window 'Open Asset' being destroyed
+[2026.04.03-18.29.50:623][308]LogSlate: Window 'Open Asset' being destroyed
+[2026.04.03-18.30.11:652][689]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom_BluePrints/BP_EnemyBase.BP_EnemyBase
+[2026.04.03-18.30.11:653][689]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.04.03-18.30.38:034][837]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1755.540771
+[2026.04.03-18.30.38:176][854]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.03-18.30.38:176][854]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1755.674438, Update Interval: 333.089996
+[2026.04.03-18.31.00:007][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.03-18.31.00:009][590]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.066
+[2026.04.03-18.31.00:011][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom_BluePrints/Ai/BT_EnemyBase] ([1] browsable assets)...
+[2026.04.03-18.31.00:011][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Ai/BT_EnemyBase]
+[2026.04.03-18.31.00:018][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Custom_BluePrints/Ai/BT_EnemyBase_Auto2
+[2026.04.03-18.31.00:022][590]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/BT_EnemyBase_Auto2745B43A745665688F24C059B1D56A3E7.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/Autosaves/Game/Custom_BluePrints/Ai/BT_EnemyBase_Auto2.uasset'
+[2026.04.03-18.31.00:025][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped] ([2] browsable assets)...
+[2026.04.03-18.31.00:025][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped]
+[2026.04.03-18.31.00:027][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped_Auto2
+[2026.04.03-18.31.00:027][590]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/BTD_IsWeaponEquipped_Auto24F2AABDF470FEC069EE16BB82FBBD14D.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/Autosaves/Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped_Auto2.uasset'
+[2026.04.03-18.31.00:030][590]LogFileHelpers: Auto-saving content packages took 0.020
+[2026.04.03-18.33.30:033][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom_BluePrints/Ai/BP_PatrolRoute.BP_PatrolRoute
+[2026.04.03-18.33.30:033][854]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.04.03-18.37.02:946][938]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.04.03-18.37.02:946][938]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.04.03-18.37.03:665][998]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2141.169189
+[2026.04.03-18.37.03:836][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.03-18.37.03:836][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2141.325439, Update Interval: 319.212006
+[2026.04.03-18.37.07:857][379]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.04.03-18.37.07:857][379]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.04.03-18.37.11:986][748]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.03-18.37.11:995][748]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.03-18.37.11:995][748]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.03-18.37.11:998][748]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.251 ms (total: 7.579 ms)
+[2026.04.03-18.37.12:011][748]LogPlayLevel: [PlayLevel] Compiling BP_EnemyBase before play...
+[2026.04.03-18.37.12:146][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.03-18.37.12:193][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/BP_EnemyBase] ([2] browsable assets)...
+[2026.04.03-18.37.12:220][748]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Custom_BluePrints/BP_EnemyBase.BP_EnemyBase]
+[2026.04.03-18.37.12:220][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/BP_EnemyBase]
+[2026.04.03-18.37.12:220][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom_BluePrints/BP_EnemyBase" FILE="../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/BP_EnemyBase.uasset" SILENT=true
+[2026.04.03-18.37.12:231][748]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/BP_EnemyBase
+[2026.04.03-18.37.12:233][748]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/BP_EnemyBase8792C7AA4A93520C41B346935DE03C1B.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/BP_EnemyBase.uasset'
+[2026.04.03-18.37.12:242][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.977 ms (total: 442.300 ms)
+[2026.04.03-18.37.12:242][748]LogPlayLevel: [PlayLevel] Compiling BTD_IsWeaponEquipped before play...
+[2026.04.03-18.37.12:243][748]LogBlueprint: Error: [AssetLog] /Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped.BTD_IsWeaponEquipped: [Compiler] The type of  Object  is undetermined.  Connect something to  Perfrom Condition Check AI  to imply a specific type.
+[2026.04.03-18.37.12:277][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.04.03-18.37.12:279][748]LogPlayLevel: PlayLevel: Blueprint regeneration took 272 ms (2 blueprints)
+[2026.04.03-18.37.12:279][748]BlueprintLog: Warning: Blueprint failed to compile:  BTD_IsWeaponEquipped
+[2026.04.03-18.37.17:595][748]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.04.03-18.37.17:810][749]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.03-18.37.17:810][749]LogContentValidation: Enabled validators:
+[2026.04.03-18.37.17:810][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.03-18.37.17:810][749]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.03-18.37.17:810][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.03-18.37.17:810][749]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.03-18.37.17:810][749]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.03-18.37.17:810][749]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.03-18.37.17:810][749]AssetCheck: /Game/Custom_BluePrints/BP_EnemyBase Validating asset
+[2026.04.03-18.37.24:919][423]LogSlate: Window 'Message Log' being destroyed
+[2026.04.03-18.37.24:925][423]LogSlate: Window 'Message Log' being destroyed
+[2026.04.03-18.37.42:749][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.03-18.37.42:796][524]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom_BluePrints/Ai/BT_EnemyBase] ([1] browsable assets)...
+[2026.04.03-18.37.42:796][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Ai/BT_EnemyBase]
+[2026.04.03-18.37.42:806][524]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Ai/BT_EnemyBase
+[2026.04.03-18.37.42:809][524]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/BT_EnemyBase833680BD4DFA0F689EDF079A32380CC9.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/BT_EnemyBase.uasset'
+[2026.04.03-18.37.42:817][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.574 ms (total: 511.875 ms)
+[2026.04.03-18.37.42:879][524]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.03-18.37.42:879][524]LogContentValidation: Enabled validators:
+[2026.04.03-18.37.42:879][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.03-18.37.42:880][524]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.03-18.37.42:880][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.03-18.37.42:880][524]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.03-18.37.42:880][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.03-18.37.42:880][524]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.03-18.37.42:880][524]AssetCheck: /Game/Custom_BluePrints/Ai/BT_EnemyBase Validating asset
+[2026.04.03-18.37.49:058][186]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.03-18.37.49:067][186]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.03-18.37.49:067][186]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.03-18.37.49:069][186]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.749 ms (total: 10.329 ms)
+[2026.04.03-18.37.49:072][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.03-18.37.49:072][186]BlueprintLog: Warning: Blueprint failed to compile:  BTD_IsWeaponEquipped
+[2026.04.03-18.37.50:359][186]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.04.03-18.37.50:390][186]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.03-18.37.50:393][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003401s)
+[2026.04.03-18.37.50:393][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003445s)
+[2026.04.03-18.37.50:406][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.03-18.37.50:411][186]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.03-18.37.50:412][186]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.03-18.37.50:412][186]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.03-18.37.50:412][186]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.03-18.37.50:412][186]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.03-18.37.50:413][186]LogWorldPartition: Display: WorldPartition initialize took 1.055 ms (total: 295.211 ms)
+[2026.04.03-18.37.50:413][186]LogPlayLevel: PIE: World Init took: (0.002259s)
+[2026.04.03-18.37.50:413][186]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.04.03-18.37.50:413][186]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.03-18.37.50:413][186]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.03-18.37.50:413][186]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.03-18.37.50:413][186]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.03-18.37.50:413][186]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.03-18.37.50:413][186]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.03-18.37.50:413][186]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.03-18.37.50:413][186]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.03-18.37.50:413][186]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.03-18.37.50:413][186]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.03-18.37.50:413][186]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.03-18.37.50:415][186]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.03-18.37.50:438][186]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.03-18.37.50:439][186]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.03-18.37.50:439][186]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.03-18.37.50:439][186]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.03-18.37.50:439][186]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.04.03-18.37.50:439][186]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.04.03-18.37.50:441][186]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.04.03-18.37.50:441][186]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.04.03-18.37.50:441][186]LogInit: FAudioDevice initialized with ID 3.
+[2026.04.03-18.37.50:441][186]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2026.04.03-18.37.50:441][186]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.03-18.37.50:444][186]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.03-18.37.50:447][186]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.04.03-11.37.50
+[2026.04.03-18.37.50:448][186]LogWorld: Bringing up level for play took: 0.004288
+[2026.04.03-18.37.50:450][186]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.04.03-18.37.50:453][186]PIE: Server logged in
+[2026.04.03-18.37.50:454][186]PIE: Play in editor total start time 1.387 seconds.
+[2026.04.03-18.38.03:293][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.03-18.38.03:293][708]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.03-18.38.03:293][708]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.03-18.38.03:294][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.03-18.38.03:294][708]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.03-18.38.03:299][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.03-18.38.03:302][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.03-18.38.03:315][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.03-18.38.03:315][708]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.03-18.38.03:315][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.04.03-18.38.03:317][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.04.03-18.38.03:325][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.04.03-18.38.03:421][709]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.04.03-18.39.49:690][521]LogEditorTransaction: Undo Add Component Nodes
+[2026.04.03-18.41.04:537][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.03-18.41.04:602][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.03-18.41.04:657][603]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/BP_EnemyBase] ([2] browsable assets)...
+[2026.04.03-18.41.04:687][603]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Custom_BluePrints/BP_EnemyBase.BP_EnemyBase]
+[2026.04.03-18.41.04:687][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/BP_EnemyBase]
+[2026.04.03-18.41.04:687][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom_BluePrints/BP_EnemyBase" FILE="../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/BP_EnemyBase.uasset" SILENT=true
+[2026.04.03-18.41.04:700][603]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/BP_EnemyBase
+[2026.04.03-18.41.04:702][603]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/BP_EnemyBase7B1F358E41B5891342290385C46EDA9E.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/BP_EnemyBase.uasset'
+[2026.04.03-18.41.04:711][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.082 ms (total: 620.958 ms)
+[2026.04.03-18.41.04:778][603]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.03-18.41.04:778][603]LogContentValidation: Enabled validators:
+[2026.04.03-18.41.04:778][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.03-18.41.04:778][603]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.03-18.41.04:778][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.03-18.41.04:778][603]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.03-18.41.04:778][603]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.03-18.41.04:778][603]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.03-18.41.04:778][603]AssetCheck: /Game/Custom_BluePrints/BP_EnemyBase Validating asset
+[2026.04.03-18.43.06:269][145]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2503.775391
+[2026.04.03-18.43.06:435][165]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.03-18.43.06:435][165]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2503.934082, Update Interval: 348.262573
+[2026.04.03-18.44.25:260][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.04.03-18.44.25:267][817]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/VF/SWM6UFHSTWBTGD3RSC891E_Auto3
+[2026.04.03-18.44.25:267][817]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/SWM6UFHSTWBTGD3RSC891E_Auto3276A40134A443F5501998A84FB56612B.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/VF/SWM6UFHSTWBTGD3RSC891E_Auto3.uasset'
+[2026.04.03-18.44.25:271][817]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.030
+[2026.04.03-18.44.25:271][817]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2026.04.03-18.44.25:272][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Custom_BluePrints/BP_EnemyBase] ([2] browsable assets)...
+[2026.04.03-18.44.25:307][817]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Custom_BluePrints/BP_EnemyBase.BP_EnemyBase]
+[2026.04.03-18.44.25:307][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/BP_EnemyBase]
+[2026.04.03-18.44.25:320][817]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Custom_BluePrints/BP_EnemyBase_Auto3
+[2026.04.03-18.44.25:320][817]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/BP_EnemyBase_Auto3795B9D1A4EE3524F25F867AB67F8DC2B.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/Autosaves/Game/Custom_BluePrints/BP_EnemyBase_Auto3.uasset'
+[2026.04.03-18.44.25:323][817]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped] ([2] browsable assets)...
+[2026.04.03-18.44.25:323][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped]
+[2026.04.03-18.44.25:325][817]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped_Auto3
+[2026.04.03-18.44.25:325][817]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/BTD_IsWeaponEquipped_Auto302363FF846D80421F851BA811BF48F67.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/Autosaves/Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped_Auto3.uasset'
+[2026.04.03-18.44.25:326][817]LogFileHelpers: Auto-saving content packages took 0.056
+[2026.04.03-18.45.50:533][443]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom_BluePrints/Ai/AIC_EnemyBase.AIC_EnemyBase
+[2026.04.03-18.45.50:534][443]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.04.03-18.48.18:465][867]LogEditorTransaction: Undo Add Node
+[2026.04.03-18.49.23:834][807]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Custom_BluePrints/Ai/Enums/E_AIState.E_AIState
+[2026.04.03-18.49.48:717][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2906.217529
+[2026.04.03-18.49.49:718][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.03-18.49.49:718][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2906.884766, Update Interval: 319.517822
+[2026.04.03-18.50.40:750][348]LogSlate: Took 0.004941 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.04.03-18.50.50:214][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.04.03-18.50.50:234][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.03-18.50.50:283][422]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom_BluePrints/Ai/AIC_EnemyBase] ([2] browsable assets)...
+[2026.04.03-18.50.50:283][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Ai/AIC_EnemyBase]
+[2026.04.03-18.50.50:294][422]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Ai/AIC_EnemyBase
+[2026.04.03-18.50.50:295][422]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/AIC_EnemyBaseDC96A671419BDBCD1526F49C02E2A205.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/AIC_EnemyBase.uasset'
+[2026.04.03-18.50.50:304][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.802 ms (total: 689.761 ms)
+[2026.04.03-18.50.50:346][422]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.03-18.50.50:346][422]LogContentValidation: Enabled validators:
+[2026.04.03-18.50.50:348][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.03-18.50.50:348][422]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.03-18.50.50:348][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.03-18.50.50:348][422]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.03-18.50.50:348][422]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.03-18.50.50:348][422]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.03-18.50.50:348][422]AssetCheck: /Game/Custom_BluePrints/Ai/AIC_EnemyBase Validating asset
+[2026.04.03-18.52.12:332][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.04.03-18.52.14:495][360]LogSlate: Window 'Save Content' being destroyed
+[2026.04.03-18.52.14:503][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.03-18.52.14:543][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom_BluePrints/Ai/AIC_EnemyBase] ([2] browsable assets)...
+[2026.04.03-18.52.14:543][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Ai/AIC_EnemyBase]
+[2026.04.03-18.52.14:553][360]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Ai/AIC_EnemyBase
+[2026.04.03-18.52.14:555][360]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/AIC_EnemyBase8E56FC8A46F81579688447804FC64298.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/AIC_EnemyBase.uasset'
+[2026.04.03-18.52.14:559][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom_BluePrints/BP_EnemyBase] ([2] browsable assets)...
+[2026.04.03-18.52.14:559][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/BP_EnemyBase]
+[2026.04.03-18.52.14:559][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom_BluePrints/BP_EnemyBase" FILE="../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/BP_EnemyBase.uasset" SILENT=true
+[2026.04.03-18.52.14:576][360]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/BP_EnemyBase
+[2026.04.03-18.52.14:578][360]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/BP_EnemyBase1B6121DA49B240ED69FA979A5FC8B10E.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/BP_EnemyBase.uasset'
+[2026.04.03-18.52.14:584][360]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/VF/SWM6UFHSTWBTGD3RSC891E
+[2026.04.03-18.52.14:586][360]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/SWM6UFHSTWBTGD3RSC891E6FD7DE8C44B8BE66DD71B59BEF4519F8.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/VF/SWM6UFHSTWBTGD3RSC891E.uasset'
+[2026.04.03-18.52.14:588][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped] ([2] browsable assets)...
+[2026.04.03-18.52.14:588][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped]
+[2026.04.03-18.52.14:592][360]LogSavePackage: Moving output files for package: /Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped
+[2026.04.03-18.52.14:592][360]LogSavePackage: Moving '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Saved/BTD_IsWeaponEquipped18F482BF48559E2BD17F65A8E3D5F25A.tmp' to '../../../../../../Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/BTD_IsWeaponEquipped.uasset'
+[2026.04.03-18.52.14:593][360]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped.
+[2026.04.03-18.52.14:609][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.224 ms (total: 794.986 ms)
+[2026.04.03-18.52.14:659][360]LogContentValidation: Display: Starting to validate 6 assets
+[2026.04.03-18.52.14:660][360]LogContentValidation: Enabled validators:
+[2026.04.03-18.52.14:660][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.03-18.52.14:660][360]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.03-18.52.14:660][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.03-18.52.14:660][360]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.03-18.52.14:660][360]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.03-18.52.14:660][360]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.03-18.52.14:661][360]AssetCheck: /Game/Custom_BluePrints/Ai/AIC_EnemyBase Validating asset
+[2026.04.03-18.52.14:661][360]AssetCheck: /Game/Custom_BluePrints/BP_EnemyBase Validating asset
+[2026.04.03-18.52.14:661][360]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2026.04.03-18.52.14:661][360]AssetCheck: /Game/Custom_BluePrints/Ai/BTD_IsWeaponEquipped Validating asset
+[2026.04.03-18.52.18:702][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms

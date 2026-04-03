@@ -86,6 +86,8 @@
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/WeaponsAnimation/Rifle/AM_Final_Rifle_Fire.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/WeaponsAnimation/Rifle/AM_Final_Rifle_Reload.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/ThirdPerson/Input/Actions/IA_Reload.uasset",
+				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/Task/BTT_EquipWeapon.uasset",
+				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Ai/BTD_IsWeaponEquipped.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Sprites/Crosshair.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Rifle/MI_Weapon_Rifle.uasset",
 				"C:/Users/salvarys/Documents/GitHub/SS_UE_AI/SS_UE_AI/Content/Custom_BluePrints/Animation/Rifle/T_Rifle_D.uasset",
